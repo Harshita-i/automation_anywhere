@@ -59,7 +59,7 @@ automation/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Harshita-i/automation_anywhere.git
 ```
 
 ### 2. Install project dependencies
